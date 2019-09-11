@@ -12,7 +12,7 @@ Your program should consist of:
 
 The input file format is shown below: \
  l          // Starting group (1 or 2)  
- 1 3 0 51   // user 1 from Group 1 requesting position 3 at time O for 5 sec.  
+ 1 3 0 51   // user 1 from Group 1 requesting position 3 at time 0 for 5 sec.  
  2 3 2 5 1  // user 2 from Group 2 requesting position 3 at time 2 for 5 sec.  
  1 3 1 5 1  // user 3 from Group I requesting position 3 at time 3 for 5 sec.  
  2 1 3 1 1  // user 4 from Group 2 requesting position 1 at time 6 for 1 sec.  
