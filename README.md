@@ -54,3 +54,7 @@ At the end of the simulation, your main thread should print a summary with:
 3. The total number of requests that waited because the position was being used by another user.
 
 **Note:** Your program must use 1/0 redirection. You can safely assume that the input files will always be in the proper format.
+
+##How to run 
+1.) g++ pthread.cpp -o *any name here* -lpthread  
+2.) .*the name you put* < input.txt //Dont forget the period
