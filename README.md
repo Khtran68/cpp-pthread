@@ -33,9 +33,9 @@ User 1 is accessing the position 3 of the database for 5 second(s)
 User 2 from Group 2 arrives to the DBMS  
 User 2 waiting due to its group  
 User 3 from Group 1 arrives to the DBMS  
-User 3 is waiting: position 3 Of the database is being used by user 1  
+User 3 is waiting: position 3 of the database is being used by user 1  
 User 1 finished its execution  
-User 3 is accessing the position 3 Of the database for 5 second(s)  
+User 3 is accessing the position 3 of the database for 5 second(s)  
 User 4 from Group 2 arrives to the DBMS  
 User 4 is waiting due to its group  
 User 3 finished its execution**    
@@ -43,8 +43,8 @@ User 3 finished its execution**
 **All users from Group 1 finished their execution  
 The users from Group 2 start their execution**  
 
-**User 2 is accessing the position 3 Of the database for 5 second(s)  
-User 4 accessing the position 1 Of the database for 1 second(s)  
+**User 2 is accessing the position 3 of the database for 5 second(s)  
+User 4 accessing the position 1 of the database for 1 second(s)  
 User 4 finished its execution  
 User 2 finished its execution**  
 
