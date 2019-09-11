@@ -1,4 +1,4 @@
-# COSC3360 Assignment 3: Pthreads and Mutex
+# COSC3360 Pthreads and Mutex
 
  ## **1. OBJECTIVE:** 
  This project will familiarize you with the use of pthreads, pthread mutex semaphores, and pthread condition variables. 
