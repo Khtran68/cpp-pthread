@@ -57,5 +57,5 @@ At the end of the simulation, your main thread should print a summary with:
 
 ## How to compile and run 
 In the console type:  
-**1) g++ pthread.cpp -o *any-name-here* -lpthread** 
+**1) g++ pthread.cpp -o *any-name-here* -lpthread**   
 **2) .*the-name-you-put* < input.txt //Dont forget the period**
